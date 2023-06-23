@@ -7,7 +7,9 @@ A Python package for formatting JSONL files to a single JSON array.
 You can install `jsonltojson` using `pip`:
 <br>
 
-`pip install jsonltojson`
+```shell
+pip install jsonltojson
+```
 
 ## Usage
 
