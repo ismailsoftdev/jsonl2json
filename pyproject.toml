@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "jsonltojson"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="Ismail Ibrahim", email="ismailsoftdev@gmail.com" },
 ]
