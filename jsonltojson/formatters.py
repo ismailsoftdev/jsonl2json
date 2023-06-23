@@ -19,7 +19,7 @@ class JsonlToJsonFormatter:
         self.input_file_path = input_file_path
         self.output_file_path = output_file_path
 
-    def format(self):
+    def to_json(self):
         """
         Reads the input JSONL file and writes a JSON array to the output JSON file.
         """
