@@ -18,6 +18,6 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/ismailsoftdev/jsonltojson"
-"Bug Tracker" = "https://github.com/ismailsoftdev/jsonltojson/issues"
+"Homepage" = "https://github.com/ismailsoftdev/jsonl2json"
+"Bug Tracker" = "https://github.com/ismailsoftdev/jsonl2json/issues"
 

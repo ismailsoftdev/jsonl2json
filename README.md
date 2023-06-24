@@ -18,8 +18,8 @@ You can use `jsonl2json` in your Python code like this:
 ```python
 from jsonl2json import JsonlToJsonFormatter
 
-formatter = JsonlToJsonFormatter('input.jsonl', 'output.json')
-formatter.to_json()
+jsonl = JsonlToJsonFormatter('input.jsonl', 'output.json')
+jsonl.to_json()
 ```
 
 This will read the input file input.jsonl and write a JSON array to the output file output.json.
