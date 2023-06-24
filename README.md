@@ -1,22 +1,22 @@
-# jsonltojson
+# Jsonl2json
 
-A Python package for formatting JSONL files to a single JSON array.
+A Python library for converting data in the JSON Lines (.jsonl) format to the standard JSON (.json) format
 
 ## Installation
 
-You can install `jsonltojson` using `pip`:
+You can install `jsonl2json` using `pip`:
 <br>
 
 ```shell
-pip install jsonltojson
+pip install jsonl2json
 ```
 
 ## Usage
 
-You can use `jsonltojson` in your Python code like this:
+You can use `jsonl2json` in your Python code like this:
 
 ```python
-from jsonltojson import JsonlToJsonFormatter
+from jsonl2json import JsonlToJsonFormatter
 
 formatter = JsonlToJsonFormatter('input.jsonl', 'output.json')
 formatter.to_json()
